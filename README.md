@@ -19,11 +19,25 @@ Do Change the config.ini file according to your systems MYSQL credintals
 
 
   getpass
+
+  
   configparser
+
+  
   cv2
+
+  
   pyzbar
+
+  
   mysql.connector
+
+  
   tabulate
+
+  
   pandas
+
+  
   tkinter
 
